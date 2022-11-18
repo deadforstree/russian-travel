@@ -3,4 +3,7 @@
   margin-right: auto;
   margin-left: auto;
   background: #2A2C2F;
+  color: #fff;
+  text-rendering: optimizeLegibility;
+  font-family: 'Inter', sans-serif;
 }
