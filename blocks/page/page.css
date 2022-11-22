@@ -1,9 +1,13 @@
 .page {
   width: 100%;
-  margin-right: auto;
-  margin-left: auto;
+  margin: 0 auto;
   background: #2A2C2F;
   color: #fff;
   text-rendering: optimizeLegibility;
   font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
 }
