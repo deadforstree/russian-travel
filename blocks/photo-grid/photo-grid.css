@@ -26,9 +26,3 @@
     margin: 64px auto 0 auto;
   }
 }
-
-@media screen and (max-width: 319px) {
-  .photo-grid {
-    grid-template-columns: repeat(auto-fit, minmax(248px, 1fr));
-  }
-}

@@ -1,5 +1,4 @@
 .footer__link {
-  max-width: 50px;
   text-decoration: none;
   margin: 0 18px 0 0;
   color: #fff;
@@ -10,7 +9,7 @@
 }
 
 .footer__link:hover {
-  opacity: .5;
+  opacity: .8;
 }
 
 @media screen and (max-width: 768px) {

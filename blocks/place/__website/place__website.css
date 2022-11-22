@@ -1,7 +1,7 @@
 .place__website {
-max-width: 456px;
-align-self: end;
-margin-bottom: 48px;
+  max-width: 456px;
+  align-self: end;
+  margin-bottom: 48px;
 }
 
 @media screen and (max-width: 767px) {
