@@ -5,3 +5,16 @@
   display: grid;
   gap: 80px;
 }
+
+@media screen and (max-width: 768px) {
+  .places {
+    padding-top: 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places {
+    padding: 64px 0 66px 0;
+    gap: 50px
+  }
+}

@@ -9,12 +9,12 @@
   grid-column: 1;
   z-index: 1;
   justify-self: center;
+  text-decoration: none;
+  color: #fff;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .cover__subtitle {
-    font-size: 18px;
-    line-height: 22px;
     max-width: 80%;
   }
 }
