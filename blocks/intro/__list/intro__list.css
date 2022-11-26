@@ -6,3 +6,15 @@
     font-size: 12px;
     line-height: 18px;
   }
+
+  @media screen and (max-width: 1024px) {
+    .intro__list {
+      max-width: 74.355%;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .intro__list {
+      max-width: 100%;
+    }
+  }
